@@ -10,7 +10,7 @@ public class SudokuApplication {
 		SpringApplication.run(SudokuApplication.class, args);
 
 
-		System.out.println("Sudoku Application Started");
+		System.out.println(">> Sudoku Application Started <<");
 	}
 
 }
